@@ -61,10 +61,8 @@ main(){
 				cout<<"modulos :- "<<modulos(a,b)<<endl;
 				break;
 				
-				if(choice == 0){
-			cout<<"Thank you for visiting us"<<endl;
-			break;
-		}
+			default:
+				cout<<"not valid "<<endl;
 			
 		}
 		
