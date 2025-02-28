@@ -9,7 +9,7 @@ int main(){
 	
 	int arr[size];
 	
-	cout << "Enter the elements of array: " << endl;
+	cout << "Enter the array's elements: " << endl;
 	for (int i = 0; i < size; i++){
 		cout << "a[" << i << "] ";
 		cin >> arr[i];
