@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-using namespace std;
+using namespace stgchgd;
 
 class BankAccount {
 public:
